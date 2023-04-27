@@ -1,0 +1,17 @@
+<Automation>
+    <Execution>            
+        <Booking_Page_Passed_DataDriven>
+            <url>http://adactinhotelapp.com/</url>
+            <username>MujahidAkberAli</username>
+            <password>mujahid123</password>
+            <location>Sydney</location>
+            <hotel>Hotel Creek</hotel>         
+            <Room>1 - One</Room>
+            <check_in>11/04/2023</check_in>
+	    <check_out>27/04/2023</check_out> 	 
+	    <adult>2 - Two</adult>
+	    <child>3 - Three</child> 	
+    	    <credit>12345678910111213</credit> 	
+        </Booking_Page_Passed_DataDriven>    
+    </Execution>
+</Automation>
